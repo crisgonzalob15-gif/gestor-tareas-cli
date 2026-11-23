@@ -16,7 +16,7 @@ def listar_tareas():
 
 
 def mostrar_menu():
-    print("\n=== GESTOR DE TAREAS CLI ===")
+    print("\n=== GESTOR DE TAREAS CLI - AYUDA RAPIDA ===")
     print("1. Agregar tarea")
     print("2. Listar tareas")
     print("3. Completar tarea")
